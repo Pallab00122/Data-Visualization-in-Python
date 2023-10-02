@@ -4,7 +4,7 @@ This file contains all the various ways to implement matplotlib library for visu
 ## Axis
 ![Axis](https://github.com/Anushka-Bhowmick/matplotlib/assets/76967222/46b72fb1-9ef6-4e1d-9b1c-02c6ce81330b)
 ## Bar
-![Bar](https://github.com/Anushka-Bhowmick/matplotlib/assets/76967222/24a536d0-a519-4397-89e3-04f960ccb62c)
+![Bar](![image](https://github.com/Debaditya-Som/Data-Visualization-in-Python/assets/100461991/dde11926-031c-4b3c-af6d-43cb59db807b))
 ## Figure_1
 ![Figure_1](https://github.com/Anushka-Bhowmick/matplotlib/assets/76967222/45f11522-dab9-4eff-9add-c6d95f2e3fe6)
 ## Figure_2
